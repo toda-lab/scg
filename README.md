@@ -1,4 +1,5 @@
 # SCG_MODELER, May 28th 2020
+CSP encoder for the strategy-solvable Sudoku clues problem
 
 # Files
 ```
