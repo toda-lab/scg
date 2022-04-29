@@ -110,7 +110,7 @@ check_solvable -N -H -L 0300000200000401
 
 # References
 - Nishikawa, N. and Toda, T.: [Exact Method for Generating Strategy-Solvable Sudoku Clues](https://doi.org/10.3390/a13070171)
-- Tamura, N. Sugar: [a SAT-based Constraint Solver](http://bach.istc.kobe-u.ac.jp/sugar)
+- Tamura, N. Sugar: [a SAT-based Constraint Solver](https://cspsat.gitlab.io/sugar/)
 - Een, N.; Sorensson, N. [The MiniSat Page](http://minisat.se/)
 - Davis, T. [The mathematics of Sudoku](http://www.geometer.org/mathcircles/sudoku.pdf)
 - Royle, G.F. [A collection of 49,151 distinct Sudoku configurations with 17 entries](https://staffhome.ecm.uwa.edu.au/~00013890/sudokumin.php)
